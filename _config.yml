@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   ‘The more you know, the more you realize you know nothing.’
-  The aforementioned quote is what perfectly compartmentalises my sentiment towards knowledge and what has led me to the aspirations I am in pursuit of.
+  - The aforementioned quote is what perfectly compartmentalises my sentiment towards knowledge and what has led me to the aspirations I am in pursuit of.
   I am computer science student currently working as an AI Engineer at Royal Cyber Inc. I am passionate about building intelligent systems that can solve real-world problems. Incorporating AI into existing systems to enhance their capabilities and efficiency is something I find particularly interesting.
   I am a team player and a quick learner, and I am always looking for new challenges to take on.
 content:
@@ -72,6 +72,44 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+      - layout: top-middle
+        title: Guided Diffusion Image Generation
+        # link: github.com/talhaamuneer/rag-pipeline-evaluator
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          - Implemented classifier-free guidance sampler on Stable Diffusion v1-5; benchmarked prompt adherence vs. diversity
+          across CFG scales (1–12).
+          - Built an automated in-painting pipeline (SD-2 Inpainting) that accepts user mask + prompt, delivering
+          photorealistic edits in ≤6s on T4 GPU.
+
+      - layout: top-middle
+        title: GNN Pathfinder & Forecasting Suite
+        # link: github.com/talhaamuneer/rag-pipeline-evaluator
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          - Path-Planning Agent: modelled mazes as weighted grid graphs and wrote a Dijkstra solver, then supervised a
+          GraphSAGE policy to imitate optimal moves—cutting path length ≈12% on unseen mazes while maintaining
+          loop-avoidance logic.
+          - Spectral GCN w/ Laplacian Regularisation: derived Laplacian penalty and embedded it in a 2-layer GCN on the
+          MUTAG dataset; achieved 87% accuracy (+5pp vs baseline) with 20% smoother node embeddings.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
