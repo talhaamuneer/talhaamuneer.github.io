@@ -48,9 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  ‘The more you know, the more you realize you know nothing.’
-  - The aforementioned quote is what perfectly compartmentalises my sentiment towards knowledge and what has led me to the aspirations I am in pursuit of.
-  I am computer science student currently working as an AI Engineer at Royal Cyber Inc. I am passionate about building intelligent systems that can solve real-world problems. Incorporating AI into existing systems to enhance their capabilities and efficiency is something I find particularly interesting.
+  ‘The more you know, the more you realize you know nothing.’ The aforementioned quote is what perfectly compartmentalises my sentiment towards knowledge and what has led me to the aspirations I am in pursuit of.
+  I am a computer science student currently working as an AI Engineer. I am passionate about building intelligent systems that can solve real-world problemsand incorporating AI into existing systems to enhance their capabilities and efficiency is something I find particularly interesting.
   I am a team player and a quick learner, and I am always looking for new challenges to take on.
 content:
   - title: Projects # Title for the section
