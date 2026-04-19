@@ -9,8 +9,7 @@ version: 2
 name: Muhammad Talha Muneer
 title: AI Engineer
 email: talhamuneer26@gmail.com
-contact: +92 330 2620033
-website: www.github.com/talhaamuneer/talhaamuneer.github.io
+phone: "+92 330 2620033"
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -49,10 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Talha and I'm an AI Engineer. As well as building agentic workflows, I also have experience making software and web apps.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>AI Systems</mark>
-
+  ‘The more you know, the more you realize you know nothing.’
+  The aforementioned quote is what perfectly compartmentalises my sentiment towards knowledge and what has led me to the aspirations I am in pursuit of.
+  I am computer science student currently working as an AI Engineer at Royal Cyber Inc. I am passionate about building intelligent systems that can solve real-world problems. Incorporating AI into existing systems to enhance their capabilities and efficiency is something I find particularly interesting.
+  I am a team player and a quick learner, and I am always looking for new challenges to take on.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
