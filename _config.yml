@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: talhaamuneer/talhaamuneer.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -127,3 +127,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-remote-theme
